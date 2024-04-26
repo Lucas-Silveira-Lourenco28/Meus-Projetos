@@ -10,8 +10,6 @@ use App\Http\Controllers\SistemaController;
 
 use App\Http\Controllers\CarrinhoController;
 
-use App\Http\Controllers\BetaController;
-
 
 
 Route::resource('produtos', ProdutoController::class);
